@@ -15,10 +15,10 @@ Hello! My name is Tamás, and I'm a FullStack Developer, but prefer more the Fro
 </p>
 
 <h2 align="center">Languages</h2>
-<h3 align="center">Frontend</h3>
+<h3>Frontend</h3>
 
-<img align="center" alt="HTML" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="center" alt="CSS" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="HTML" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Bootstrap" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
 <img align="left" alt="Sass" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="left" alt="JavaScript" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -27,14 +27,14 @@ Hello! My name is Tamás, and I'm a FullStack Developer, but prefer more the Fro
 <br />
 <br />
 
-<h3 align="center">Backend</h3>
+<h3>Backend</h3>
 <img align="left" alt="NodeJS" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="php" width="26px" style="padding:15px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
 
 <br />
 <br />
 
-<h3 align="center">Tools</h3>
+<h3>Tools</h3>
 
 <img align="left" alt="WordPress" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 <img align="left" alt="Git" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
