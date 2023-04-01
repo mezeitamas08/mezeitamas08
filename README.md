@@ -28,7 +28,7 @@
 
 <h3>Backend</h3>
 <img align="left" alt="NodeJS" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="ExpressJS" width="26px" style="padding:15px;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
+<img align="left" alt="ExpressJS" width="26px" style="padding:15px;background-color: grey;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
 <img align="left" alt="php" width="26px" style="padding:15px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
 
 <br />
