@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://dev.to/mezeitamas08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mezeitamas08" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mezeitamas08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mezeitamas08" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mezeitamas08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mezeitamas08" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18951238/mezeitamas08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mezeitamas08" height="30" width="40" /></a>
 </p>
 
 <h2 align="center">Programming languages</h2>
