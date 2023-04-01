@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tamás</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+#Hi 👋, I'm Tamás
 
 - 🔭 I’m currently working on **Hungarian Charity Service of the Order of Malta**
 
