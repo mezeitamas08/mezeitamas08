@@ -33,6 +33,14 @@
 <br />
 <br />
 
+<h3>Databases</h3>
+ <img align="left" alt="MongoDB" width="26px" style="padding:15px;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/> 
+ <img align="left" alt="MySQL" width="26px" style="padding:15px;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/> 
+ <img align="left" alt="PostgreSQL" width="26px" style="padding:15px;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/> 
+ 
+<br />
+<br />
+
 <h3>Tools</h3>
 
 <img align="left" alt="WordPress" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
