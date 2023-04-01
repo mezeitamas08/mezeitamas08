@@ -1,4 +1,4 @@
-# 🌌 Hi 👋, I'm Tamás
+# 👋 Hi , I'm Tamás
 
 **`Software Engineer (Web Developer/Front-End Developer/Designer)`**
 
