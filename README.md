@@ -1,8 +1,7 @@
 # 👋 Hi , I'm Tamás
 
-**`Software Engineer (Web Developer/Front-End Developer/Designer)`**
+**`Software Engineer (Web Developer/Full-Stack Developer`**
 
-* Hello! My name is Tamás, and I'm a FullStack Developer. *
 
 - 🔭 I’m currently working on **Hungarian Charity Service of the Order of Malta**
 - 📄 E-portfolio, resume, experiences on [https://portfolio-mezeitamas.netlify.app/](https://portfolio-mezeitamas.netlify.app/)
