@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on **Hungarian Charity Service of the Order of Malta**
-- 📄 E-portfolio, resume, experiences on [https://portfolio-mezeitamas.netlify.app/](https://portfolio-mezeitamas.netlify.app/)
+- 📄 E-portfolio, resume, experiences on [[https://portfolio.mezeitamasdev.hu/](https://portfolio.mezeitamasdev.hu/)/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
