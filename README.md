@@ -1,5 +1,7 @@
 # 💫 About Me:
-currently working on Hungarian Charity Service of the Order of Malta, and fullstack developer too at self-employed, fullstack developer since 2025<br>
+🔭 I’m currently working on Hungarian Charity Service of the Order of Malta
+💻 Self-Employed as FullStack Developer
+🌐 E-portfolio, resume: <a href="mezeitamasdev.hu">mezeitamasdev.hu</a>
 
 
 ## 🌐 Socials:
